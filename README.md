@@ -2,7 +2,7 @@
 
 
 
-[![Flickr Badge](https://img.shields.io/badge/?style=flat&logo=flickr&?label=&logoColor=blue)](https://www.flickr.com/photos/189078704@N02/)
+[![Flickr Badge](https://img.shields.io/badge/?style=flat&logo=flickr&?label=flickr&logoColor=blue&link=https://www.flickr.com/photos/189078704@N02/)](https://www.flickr.com/photos/189078704@N02/)
 <!--
 **szymonlipinski/szymonlipinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
