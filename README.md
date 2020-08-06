@@ -10,9 +10,7 @@
 
 ### Latest Blog Posts
 
-All posted on 
-
-<img src="https://www.simononsoftware.com/icons/favicon32.png" width="12"/> [https://www.simononsoftware.com/](https://www.simononsoftware.com/)
+All posted on [https://www.simononsoftware.com/](https://www.simononsoftware.com/)
 
 * [Benchmarking Compression Programs](https://www.simononsoftware.com/benchmarking-compression-programs/)
 * [Generating Random Data in PostgreSQL](https://www.simononsoftware.com/generating-random-data-in-postgresql/)
@@ -21,5 +19,8 @@ All posted on
 * [How Not to Send PDF Files](https://www.simononsoftware.com/how-not-to-send-pdf-files/)
 * [How To Calculate Length of Overlapping Ranges in PostgreSQL](https://www.simononsoftware.com/how-to-calculate-length-of-overlapping-ranges-in-postgres/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=szymonlipinski&show_icons=true&hide_border=true&count_private=true)
+
+### Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=szymonlipinski&show_icons=true&hide_border=false&count_private=true)
 
