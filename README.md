@@ -14,8 +14,11 @@
 
 ### Things I Like To Work With
 
-* [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
-* 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) 
+[![C++](https://img.shields.io/badge/-C++-c14438?style=flat&logo=C++&logoColor=white)]()
+[![C](https://img.shields.io/badge/-C-c14438?style=flat&logo=C&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/-Rust-c14438?style=flat&logo=Rust&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-c14438?style=flat&logo=Python&logoColor=white)]()
 
 
 ### Latest Blog Posts
