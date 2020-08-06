@@ -1,12 +1,17 @@
 ### Hi there 👋
 
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
 
-[![Flickr Badge](https://img.shields.io/badge/--1ca0f1?style=flat-square&labelColor=1ca0f1&logo=flickr&logoColor=white&label=flickr&logoColor=blue&link=https://www.flickr.com/photos/189078704@N02/)](https://www.flickr.com/photos/189078704@N02/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymonlipinski)
 
-[![LinkedIn Badge](https://img.shields.io/badge/--1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white&label=linkedin&logoColor=blue&link=https://www.linkedin.com/in/szymonlipinski/)](https://www.linkedin.com/in/szymonlipinski/)
+[![Flickr](https://img.shields.io/badge/-Flickr-c13584?style=flat&labelColor=c13584&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
 
-[![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/szymon_lipinski)](https://twitter.com/szymon_lipinski)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/szym_el/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mabewlun@gmail.com)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-c14438?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/szymon_lipinski)
 
 
 
