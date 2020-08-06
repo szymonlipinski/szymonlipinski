@@ -14,7 +14,7 @@
 
 ### Things I Like To Work With
 
-* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)(https://www.postgresql.org/)
+* [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 * 
 
 
