@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+
+[![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=&logoColor=white)](https://www.simononsoftware.com/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymonlipinski)
 [![Flickr](https://img.shields.io/badge/-Flickr-c13584?style=flat&labelColor=c13584&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
