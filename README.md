@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-![](<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="flickr" class="svg-inline--fa fa-flickr fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM144.5 319c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5zm159 0c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5z"></path></svg>)
 
-===
 
-<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="flickr" class="svg-inline--fa fa-flickr fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM144.5 319c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5zm159 0c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5z"></path></svg>
-
+[![Flickr Badge](https://img.shields.io/badge/?style=flat-square&labelColor=1ca0f1&logo=flickr&logoColor=white&link=https://www.flickr.com/photos/189078704@N02/)](https://www.flickr.com/photos/189078704@N02/)
 <!--
 **szymonlipinski/szymonlipinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
