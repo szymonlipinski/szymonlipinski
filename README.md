@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=&logoColor=white)](https://www.simononsoftware.com/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
@@ -13,3 +10,13 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=szymonlipinski&show_icons=true&hide_border=true&count_private=true)
 
+
+
+### Latest Blog Posts
+
+* [Benchmarking Compression Programs]https://www.simononsoftware.com/benchmarking-compression-programs/
+* [Generating Random Data in PostgreSQL]https://www.simononsoftware.com/generating-random-data-in-postgresql/
+* [Bitboards Are Not Magical]https://www.simononsoftware.com/bitboards-are-not-magical/
+* [Hacker News Links Analysis]https://www.simononsoftware.com/hackernews-links-analysis/
+* [How Not to Send PDF Files]https://www.simononsoftware.com/how-not-to-send-pdf-files/
+* [How To Calculate Length of Overlapping Ranges in PostgreSQL]https://www.simononsoftware.com/how-to-calculate-length-of-overlapping-ranges-in-postgres/
