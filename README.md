@@ -12,9 +12,10 @@
 * [Rust BitSet implementation](https://github.com/szymonlipinski/bitset)
 * A simple chess engine (Rust and C++)
 
-### Things I Like
+### Things I Like To Work With
 
-* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)
+* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)(https://www.postgresql.org/)
+* 
 
 
 ### Latest Blog Posts
