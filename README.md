@@ -21,6 +21,10 @@
 [![Rust](https://img.shields.io/badge/-Rust-c14438?style=flat&logo=Rust&logoColor=white)]()
 [![Python](https://img.shields.io/badge/-Python-c14438?style=flat&logo=Python&logoColor=white)]()
 
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)]()
+
+
+
 
 ### Latest Blog Posts
 
