@@ -10,7 +10,9 @@
 
 ### Latest Blog Posts
 
-All posted on ![](https://www.simononsoftware.com/icons/favicon32.png)[https://www.simononsoftware.com/](https://www.simononsoftware.com/)
+All posted on 
+
+<img src="https://www.simononsoftware.com/icons/favicon32.png" width="20"/> [https://www.simononsoftware.com/](https://www.simononsoftware.com/)
 
 * [Benchmarking Compression Programs](https://www.simononsoftware.com/benchmarking-compression-programs/)
 * [Generating Random Data in PostgreSQL](https://www.simononsoftware.com/generating-random-data-in-postgresql/)
