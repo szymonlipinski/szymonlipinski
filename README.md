@@ -7,6 +7,15 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mabewlun@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-c14438?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/szymon_lipinski)
 
+### Currently Workin On
+
+* [Rust BitSet implementation](https://github.com/szymonlipinski/bitset)
+* A simple chess engine (Rust and C++)
+
+### Things I Like
+
+* ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)
+
 
 ### Latest Blog Posts
 
