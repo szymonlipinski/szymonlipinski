@@ -1,7 +1,7 @@
 
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=&logoColor=white)](https://www.simononsoftware.com/)
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymonlipinski)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymonlipinski)
 [![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&labelColor=c13584&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/szym_el/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mabewlun@gmail.com)
@@ -15,7 +15,7 @@
 
 ### Things I Like To Work With
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
@@ -23,14 +23,22 @@
 ![JAVA](https://img.shields.io/badge/-Java-007396?style=flat&logo=JAVA&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=JAVA&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-c14438?style=flat&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=Ruby%20on%20Rails&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JAVA&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=JAVA&logoColor=white)
+
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-F7DF1E?style=flat&logo=Ubuntu&logoColor=white)
 
 
 
