@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=&logoColor=white)](https://www.simononsoftware.com/)
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymonlipinski)
-[![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&labelColor=c13584&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
+[![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&labelColor=0063DC&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/szym_el/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mabewlun@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/szymon_lipinski)
@@ -33,12 +33,12 @@
 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JAVA&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=JAVA&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JAVA&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=JAVA&logoColor=white)
 
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-F7DF1E?style=flat&logo=Ubuntu&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-F7DF1E?style=flat&logo=Ubuntu&logoColor=white)
 
 
 
