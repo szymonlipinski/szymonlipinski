@@ -15,7 +15,7 @@
 
 ### Things I Like To Work With
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)]()
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/-Rust-c14438?style=flat&logo=Rust&logoColor=white)]()
