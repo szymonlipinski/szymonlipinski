@@ -1,10 +1,10 @@
 
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=&logoColor=white)](https://www.simononsoftware.com/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/szymonlipinski)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymonlipinski)
 [![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&labelColor=c13584&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/szym_el/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mabewlun@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/szym_el/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mabewlun@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-c14438?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/szymon_lipinski)
 
 ### Currently Workin On
@@ -16,15 +16,26 @@
 ### Things I Like To Work With
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-c14438?style=flat&logo=PostgreSQL&logoColor=white)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)]()
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/-Rust-c14438?style=flat&logo=Rust&logoColor=white)]()
-[![Python](https://img.shields.io/badge/-Python-c14438?style=flat&logo=Python&logoColor=white)]()
 
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)]()
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)]()
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-c14438?style=flat&logo=Rust&logoColor=white)
+![JAVA](https://img.shields.io/badge/-Java-007396?style=flat&logo=JAVA&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=JAVA&logoColor=white)
 
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)]()
+![Python](https://img.shields.io/badge/-Python-c14438?style=flat&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JAVA&logoColor=white)
+
+
+
+
+
 
 
 
