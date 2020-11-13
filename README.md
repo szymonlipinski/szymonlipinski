@@ -11,7 +11,7 @@
 
 * [Rust BitSet implementation](https://github.com/szymonlipinski/bitset)
 * [A simple chess engine (C++)](https://github.com/szymonlipinski/slchess)
-* Making photos [![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&labelColor=0063DC&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
+* Taking photos [![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&labelColor=0063DC&logo=flickr&logoColor=white)](https://www.flickr.com/photos/189078704@N02/)
 
 ### Things I Like To Work With
 
